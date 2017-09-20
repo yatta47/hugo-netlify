@@ -1,0 +1,3 @@
+baseURL = "http://hugo-netlify-test-yatta472.c9users.io:8080/"
+languageCode = "ja"
+title = "Hugo Netlify Sample"
