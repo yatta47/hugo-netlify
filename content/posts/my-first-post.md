@@ -6,3 +6,5 @@ thumbnail: "/images/h_2-600x340.jpg"
 ---
 
 Hello World!!!
+<h1 style="color:#ff0000;">テストだよー</h1>
+
